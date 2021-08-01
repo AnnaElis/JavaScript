@@ -27,7 +27,7 @@ if (str[0] == 'b') {
 
 var str = 'abcde';
 switch (str[0]) {
-	case 'a':
+	case 'a': 
 		alert('да');
  	break;
 	default:
